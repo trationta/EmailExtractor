@@ -2,6 +2,8 @@
 
 A simple grep script used to extract emails from mbox files
 
+This script works perfictly on linux systems and still not tested on other platforms
+
 If you can't run this file use ```sudo chmod 777 EmailExtarctor.sh```
 
 Note that this code is not perfect and will give some prsentage of rubbish but it will spare you a lot of work.
